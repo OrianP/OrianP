@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, my name is Orian 👩‍💻 👋
+* I am a musician turned web developer
+* Cohort member on [*Founders and Coders*](https://www.foundersandcoders.com/) web development program :seedling: 
+* Check out my repositories for current and past projects 
+* Reach me at orianpmusic@gmail.com
+
 
 <!--
 **OrianP/OrianP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
