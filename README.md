@@ -1,8 +1,8 @@
 ### Hello, my name is Orian 👩‍💻 👋
 * I am a musician turned web developer
-* Cohort member on [*Founders and Coders*](https://www.foundersandcoders.com/) web development program :seedling: 
+* Cohort member on [*Founders and Coders*](https://www.foundersandcoders.com/) software development apprenticeship program :seedling: 
 * Check out my repositories for current and past projects 
-* Reach me at orianpmusic@gmail.com
+* [Contact me](mailto:orianpmusic@gmail.com) :email:
 
 
 <!--
