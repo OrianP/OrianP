@@ -1,7 +1,6 @@
 ![Orian gif](https://media.giphy.com/media/ra8UZUiTtapcnRhVKu/giphy.gif)
 * I am a musician turned developer 👩‍💻
 * Cohort member on [*Founders and Coders*](https://www.foundersandcoders.com/) software development apprenticeship program :seedling: 
-* Interested in writing elegant and efficient code with accessibility and inclusion baked-in 🍰
 * Check out my repositories for current and past projects 📂
 * [Say hello](mailto:info@orian.me) :email:
 
