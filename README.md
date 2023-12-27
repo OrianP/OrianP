@@ -1,4 +1,3 @@
-![Orian gif](https://media.giphy.com/media/ra8UZUiTtapcnRhVKu/giphy.gif)
 * Musician turned developer 👩‍💻 🎼
 * Product developer at [Opvia](https://www.opvia.io/) 
   
